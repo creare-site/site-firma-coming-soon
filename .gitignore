@@ -4,3 +4,4 @@ node_modules
 npm-debug.log
 _site
 .sass-cache
+src/images/bg03.psd
